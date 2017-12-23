@@ -1,0 +1,16 @@
+td {
+    text-align: center
+}
+
+body {
+    background-color: rgb(218, 249, 255);
+    font-family: arial;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+input{
+    text-align: center;
+}
