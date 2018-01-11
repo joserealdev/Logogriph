@@ -1,2 +1,2 @@
 # Logogriph
-A simply game created with JavaScript and JSON
+A simply game created with JavaScript and JSON dictionary
